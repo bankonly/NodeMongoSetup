@@ -1,0 +1,6 @@
+admin/node_modules
+app/node_modules
+models/node_modules
+
+admin/.env
+app/.env
